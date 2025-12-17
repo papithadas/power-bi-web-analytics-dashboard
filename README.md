@@ -106,5 +106,7 @@ Dashboard Design & Storytelling
 
 **Dashboard Screenshots**
 
+E-commerce Web Analytics.pdf
+
 
 
